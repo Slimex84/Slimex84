@@ -39,7 +39,7 @@
 <!--Stats subtitle-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Github Stats 💻 (Expand to View)</h2></summary>
+    <summary><h2 style="display: inline-block">Github Stats 💻</h2></summary>
   </ul>
 </div>
 
