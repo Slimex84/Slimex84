@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 -->
 
 <!--Cat animation-->
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <!--Wave animation end-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1696F7&height=120&section=footer"/>
