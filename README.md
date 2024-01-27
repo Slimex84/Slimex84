@@ -45,7 +45,7 @@
 
 <!--Stats-->
 <details> 
-  <summary><b>GitHub Profile Stats</b></summary>
+  <summary><p align="center"><b>GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Slimex84/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Slimex84&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -56,14 +56,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Slimex84"><img alt="Santiago's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Slimex84&custom_title=Slimex84's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-<br/>
 
 <!--- snake -->
 <!--<div align="center">
