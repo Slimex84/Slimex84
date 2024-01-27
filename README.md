@@ -45,9 +45,6 @@
 
 <!--Stats-->
 <!--<details>-->
- <p align="center">
-  <summary><p align="center"><b>GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
     <a href="https://github.com/Slimex84/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Slimex84&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <!--</details>-->
