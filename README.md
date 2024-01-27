@@ -29,19 +29,19 @@
 </p>
 
 <!--Stats subtitle-->
-<div id="user-content-toc">
+<!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Github Stats 💻</h2></summary>
   </ul>
-</div>
+</div>-->
 
 <!--Stats-->
 <!--<details>-->
-  <p align="center">
+  <!--<p align="center">
 <a href="https://github.com/Slimex84">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Slimex84&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-   </p>
+   </p>-->
 <!--</details>-->
 
 <!-- Contact me subtitle-->
