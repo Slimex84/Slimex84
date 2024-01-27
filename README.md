@@ -4,15 +4,15 @@
 <!--Hi there animation-->
 <h1 align="center"><b>Hi there! I am Santiago Sáchica </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--Info animation-->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Mobile+Developer"></a>
-</p>
-
 <!--Cat animation-->
 <div align=center>
   <img src="https://github.com/Slimex84/Slimex84/blob/main/GitHub%20Kitty.gif" alt="Cat" height="100">
 </div>
+
+<!--Info animation-->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Mobile+Developer"></a>
+</p>
 
 <!--Tecnologies subtitle-->
 <div id="user-content-toc">
