@@ -41,7 +41,7 @@
 <a href="https://github.com/Slimex84">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Slimex84&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-   </p>-->
+   </p>
 <!--</details>-->
 
 <!-- Contact me subtitle-->
