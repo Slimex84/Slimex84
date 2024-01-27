@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hi there! I am Santiago Sáchica </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align=center>
-  <img src="https://github.com/Slimex84/Slimex84/blob/main/GitHub%20Kitty.gif" alt="Cat">
+  <img src="https://github.com/Slimex84/Slimex84/blob/main/GitHub%20Kitty.gif" alt="Cat" height="100">
 </div>
 
 <!--Info animation-->
