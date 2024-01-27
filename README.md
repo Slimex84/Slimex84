@@ -12,7 +12,7 @@
 <!--Tecnologies subtitle-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 🧑🏼‍💻</h2></summary>
   </ul>
 </div>
 
@@ -26,7 +26,7 @@
 <!-- Contact me subtitle-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Contact me</h2></summary>
+    <summary><h2 style="display: inline-block">Contact me 🤝</h2></summary>
   </ul>
 </div>
 
