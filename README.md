@@ -44,9 +44,6 @@
    </p>
 <!--</details>-->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Slimex84&theme=react-dark&hide_border=true&area=true)
-![3D Profile](https://github.com/Slimex84/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
 <!-- Contact me subtitle-->
 <div id="user-content-toc">
   <ul align="center">
