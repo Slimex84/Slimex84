@@ -36,11 +36,10 @@
 </div>
 
 <!--Stats-->
-<p align="center">
-<a href="https://github.com/Slimex84">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Slimex84&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+<!--<details>-->
+  <p align="center">
+    <a href="https://github.com/Slimex84/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Slimex84&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<!--</details>-->
 
 <!-- Contact me subtitle-->
 <div id="user-content-toc">
