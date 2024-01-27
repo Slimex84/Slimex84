@@ -1,7 +1,10 @@
+<!--Wave animation start-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1696F7&height=120&section=header"/>
 
+<!--Hi there animation-->
 <h1 align="center"><b>Hi there! I am Santiago Sáchica </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<!--Info animation-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Mobile+Developer"></a>
 </p>
@@ -21,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--Wave animation end-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1696F7&height=120&section=footer"/>
