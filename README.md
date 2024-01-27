@@ -36,6 +36,35 @@
 <a href="mailto:ssachica@gmail.com?" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>  
 </p>
 
+<!--Stats subtitle-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Github Stats 💻 (Expand to View)</h2></summary>
+  </ul>
+</div>
+
+<!--Stats-->
+<details> 
+  <summary><b>GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Slimex84/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Slimex84&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slimex84&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Slimex84" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Slimex84"><img alt="Santiago's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Slimex84&custom_title=Slimex84's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+<br/>
+
 <!--- snake -->
 <!--<div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
