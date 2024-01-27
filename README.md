@@ -44,6 +44,8 @@
    </p>
 <!--</details>-->
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Slimex84&theme=react-dark&hide_border=true&area=true)
+
 <!-- Contact me subtitle-->
 <div id="user-content-toc">
   <ul align="center">
