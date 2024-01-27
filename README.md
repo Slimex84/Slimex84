@@ -23,19 +23,6 @@
   </a>
 </p>
 
-<!-- Contact me subtitle-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contact me 🤝</h2></summary>
-  </ul>
-</div>
-
-<!--Contact me icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/slimex84/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:ssachica@gmail.com?" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>  
-</p>
-
 <!--Stats subtitle-->
 <div id="user-content-toc">
   <ul align="center">
@@ -49,12 +36,18 @@
     <a href="https://github.com/Slimex84/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Slimex84&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <!--</details>-->
 
-<!--- snake -->
-<!--<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<!-- Contact me subtitle-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contact me 🤝</h2></summary>
+  </ul>
 </div>
--->
+
+<!--Contact me icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/slimex84/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:ssachica@gmail.com?" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>  
+</p>
 
 <!--
 **Slimex84/Slimex84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
