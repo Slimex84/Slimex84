@@ -36,13 +36,11 @@
 </div>
 
 <!--Stats-->
-<!--<details>-->
   <p align="center">
 <a href="https://github.com/Slimex84">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Slimex84&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
    </p>
-<!--</details>-->
 
 <!-- Contact me subtitle-->
 <div id="user-content-toc">
@@ -71,9 +69,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--Cat animation-->
-<!--<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">-->
 
 <!--Wave animation end-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1696F7&height=120&section=footer"/>
