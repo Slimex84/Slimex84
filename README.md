@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,kotlin,firebase,eclipse,java,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,kotlin,firebase,eclipse,java,mysql,postgres,xml" />
   </a>
 </p>
 
