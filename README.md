@@ -56,8 +56,9 @@
 
 <!--Contact me icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/slimex84/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:ssachica@gmail.com?" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>  
+<a href="https://www.linkedin.com/in/slimex84/" target="blank"><img align="center" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a9929215cae66250f35700326a15f4c6_dXLnDLCoyM.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:ssachica@gmail.com?" target="blank"><img align="center" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/e30d7bba48a13f3390039b58101c9d12_low_res_Gmail.png" alt="gmail" height="50" width="50" /></a>
+<a href="https://www.slimexdev.com/" target="blank"><img align="center" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a3f8afc74898bb6bc46bb357acb50644_enkKEev1rQ.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 <!--
